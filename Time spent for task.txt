@@ -1,0 +1,2 @@
+create desing for small movie-component
+side: had to create separete function to returne genres using typescript predicates 1:10. 
