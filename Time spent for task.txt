@@ -1,2 +1,4 @@
 create desing for small movie-component
 side: had to create separete function to returne genres using typescript predicates 1:10. 
+making rating inline css typos, playing with colors 2:00
+have no idea why compiled project doesn't work on github, on localhost i work correctly 2:00
